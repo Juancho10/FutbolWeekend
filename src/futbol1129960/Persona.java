@@ -23,7 +23,7 @@ public class Persona
 
     @Override
     public String toString() {
-        return nombre+" "+apellido; //To change body of generated methods, choose Tools | Templates.
+        return nombre+" "+apellido+" "+id; //To change body of generated methods, choose Tools | Templates.
     }
 
    
